@@ -17,4 +17,4 @@ There are no special dependencies or requirements to run this project.
 
 ### Future Changes
 
-Joseph will update this portfolio once he has larger and more complete programs to showcase. Expect many over the coming months, as Joseph is currently enrolled in MIT's Full stack development with MERn bootcamp.
+Joseph will update this portfolio once he has larger and more complete programs to showcase. Expect many updates over the coming months, as Joseph is currently enrolled in MIT's Full stack development with MERN bootcamp.
