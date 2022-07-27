@@ -9,7 +9,7 @@ data and analytics based projects. Lastly, Joseph is learning the react framewor
 
 ## Getting Started
 
-To run the project just open the html file in an internet browser.
+To run the project just open the home.html file or the projects.html file in an internet browser.
 
 ### Dependencies
 
